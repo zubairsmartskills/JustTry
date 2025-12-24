@@ -8,6 +8,9 @@ public class Ef {
 		
 		Scanner a= new Scanner(System.in);
 		System.out.println("Master Update");
+
+		System.out.println("sai");
+
 		
 		
 		
